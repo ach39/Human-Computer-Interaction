@@ -1,10 +1,10 @@
 # Human-Computer-Interaction
 
-## Redesign of Digital Piano
+## 1. Redesign of Digital Piano
 
 Goal of my research is to assess how digital piano/keyboard interface can be enhanced to make piano learning and practice engaging and effective for children. Primary user for this project are children who are learning piano and are main focus of my research. However, there are Secondary users ( parents and piano-teachers), who can also provide valuable insight into student’s learning needs. 
 
-### 1. High level workflow of new interface
+### 1a. High level workflow of new interface
 
 I used Music21 python library to create a sample work flow
   1. Program receives MIDI stream from Piano as student plays the song. 
@@ -15,16 +15,16 @@ I used Music21 python library to create a sample work flow
 
 --- 
 
-### 2. Prototype-1 : Wireframe
+### 1b. Prototype-1 : Wireframe
 
 <img align="center" height="500" width="600" src="https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/P1.png" >
 
 ---
 
-### 2. Prototype-2 : Cardbased
+### 1c. Prototype-2 : Cardbased
 
   <img src="https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/P2.png" height="400" width="600">
 
 ---
-## Redesign of Ring Door-bell interface
-[here](https://github.com/ach39/Human-Computer-Interaction/blob/master/Ring%20Interface%20Redesign/Project-Ring%20(achauhan39%20v3).pdf)
+## 2. Redesign of Ring Door-bell interface
+Click [here](https://github.com/ach39/Human-Computer-Interaction/blob/master/Ring%20Interface%20Redesign/readme.md)
