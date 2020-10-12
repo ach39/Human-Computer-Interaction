@@ -2,7 +2,7 @@
 #### *Goal of this project is to redesign a well-established product, using principles of HCI. It could be an embedded , mobile , or wearable interface. I chose to redesign Ring Doorbell.*
 More details about this project can be found [here](Project-Ring%20(achauhan39%20v3).pdf)
 
-### 1.	Need finding 
+### 1.	NeedFinding 
 
   a)	Created a needfinding plan to better understand strength, weaknesses, threat and opportunities for this  product. 
   b)	This plan defined problem space ,user-types and helped fill data-inventory.
@@ -20,10 +20,10 @@ More details about this project can be found [here](Project-Ring%20(achauhan39%2
   2.	Face Detection enabling Intelligent Alerts  (Fig 4.2)
   3.	Voice-Alerts  facilitating touchless interaction ( Fig 4.3)
 
-
-<img_src=https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/Ring-main.png>
-
-<img_src=https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/Ring-P1.png>
+  <img align="center" src="https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/Ring-main.png" >
+  
+  Video upload to local servers (Fig 4.1)
+  <img align="center" src="https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/Ring-P1.png" >
 
 ### 4.	Evaluation
 
