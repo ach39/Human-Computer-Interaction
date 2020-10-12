@@ -24,3 +24,7 @@ I used Music21 python library to create a sample work flow
 ### 2. Prototype-2 : Cardbased
 
   <img src="https://github.com/ach39/Human-Computer-Interaction/blob/master/imgs/P2.png" height="400" width="600">
+
+---
+## Redesign of Ring Door-bell interface
+[here](https://github.com/ach39/Human-Computer-Interaction/blob/master/Ring%20Interface%20Redesign/Project-Ring%20(achauhan39%20v3).pdf)
